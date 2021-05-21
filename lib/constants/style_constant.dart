@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:wemight/constants/color_constant.dart';
+import 'package:wemight_urbantech/constants/color_constant.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 // Style for title
