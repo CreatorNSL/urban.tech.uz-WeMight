@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(
               padding: EdgeInsets.only(left: 16, bottom: 24),
               child: Text(
-                'Salom, Sarvinoz 👋 Sog\'lig\'ingizga e\'tiborli bo\'ling!',
+                'Salom, Ilhomjon 👋 Sog\'lig\'ingizga e\'tiborli bo\'ling!',
 
               ),
             ),
