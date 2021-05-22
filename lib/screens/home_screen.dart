@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(
               padding: EdgeInsets.only(left: 16, bottom: 24),
               child: Text(
-                'Salom, Ilhomjon 👋 Sog\'lig\'ingizga e\'tiborli bo\'ling!',
+                'Assalomu alaykum 👋 Sog\'lig\'ingizga e\'tiborli bo\'ling!',
 
               ),
             ),
@@ -128,7 +128,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(
               padding: EdgeInsets.only(left: 16, top: 24, bottom: 12),
               child: Text(
-                'Ommabop xizmatlar',
+                'Xizmatlar',
                 style: mTitleStyle,
               ),
             ),
@@ -162,7 +162,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: <Widget>[
                                     Text(
-                                      'DONORLIK',
+                                      'Qon donorligi',
                                       style: mServiceTitleStyle,
                                     ),
                                     Text(
@@ -199,11 +199,11 @@ class _HomeScreenState extends State<HomeScreen> {
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: <Widget>[
                                     Text(
-                                      'Trains',
+                                      'A\'zolar donorligi',
                                       style: mServiceTitleStyle,
                                     ),
                                     Text(
-                                      'Intercity',
+                                      'Yaxshilik qiling',
                                       style: mServiceSubtitleStyle,
                                     )
                                   ],
