@@ -12,11 +12,9 @@ List<PopularDestinationModel> populars = popularsData
     .toList();
 
 var popularsData = [
-  {"name": "Bali", "country": "Indonesia", "image": "assets/images/destination_bali.png"},
-  {"name": "Paris", "country": "France", "image": "assets/images/destination_paris.png"},
-  {"name": "Rome", "country": "Italy", "image": "assets/images/destination_rome.png"},
+  {"name": "402-2", "country": "Qonun", "image": "assets/images/destination_bali.png"},
+  {"name": "Mukofot", "country": "Faxriy donor", "image": "assets/images/destination_bali.png"},
+  {"name": "Imtiyozlar", "country": "Donorlarga berilgan ...", "image": "assets/images/destination_bali.png"},
 
-  {"name": "Bali", "country": "Indonesia", "image": "assets/images/destination_bali.png"},
-  {"name": "Paris", "country": "France", "image": "assets/images/destination_paris.png"},
-  {"name": "Rome", "country": "Italy", "image": "assets/images/destination_rome.png"},
+  {"name": "07-6-15", "country": "Donorlik dasturi", "image": "assets/images/destination_bali.png"},
 ];
