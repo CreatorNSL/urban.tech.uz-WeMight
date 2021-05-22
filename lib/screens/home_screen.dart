@@ -203,7 +203,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                       style: mServiceTitleStyle,
                                     ),
                                     Text(
-                                      'Yaxshilik qiling',
+                                      'Oson topish',
                                       style: mServiceSubtitleStyle,
                                     )
                                   ],
@@ -243,11 +243,11 @@ class _HomeScreenState extends State<HomeScreen> {
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: <Widget>[
                                     Text(
-                                      'Hotel',
+                                      'Qon tahlil',
                                       style: mServiceTitleStyle,
                                     ),
                                     Text(
-                                      'Let\'s take a break',
+                                      'Ariza yuborish',
                                       style: mServiceSubtitleStyle,
                                     )
                                   ],
