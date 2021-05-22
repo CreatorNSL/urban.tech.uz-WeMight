@@ -153,7 +153,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             children: <Widget>[
                               SvgPicture.asset(
                                 'assets/svg/service_flight_icon.svg',
-                                fit: BoxFit.contain,
+                                fit: BoxFit.fill,
                               ),
                               Padding(
                                 padding: EdgeInsets.only(left: 16),
@@ -280,11 +280,11 @@ class _HomeScreenState extends State<HomeScreen> {
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: <Widget>[
                                     Text(
-                                      'Car Rental',
+                                      'E\'lonlar',
                                       style: mServiceTitleStyle,
                                     ),
                                     Text(
-                                      'Around the city',
+                                      'Qonga muhtojlar',
                                       style: mServiceSubtitleStyle,
                                     )
                                   ],
