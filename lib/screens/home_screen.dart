@@ -270,7 +270,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: Row(
                             children: <Widget>[
                               SvgPicture.asset(
-                                'assets/svg/service_car_rental_icon.svg',
+                                'assets/svg/4.svg',
                                 fit: BoxFit.contain,
                               ),
                               Padding(
@@ -356,7 +356,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(
               padding: EdgeInsets.only(left: 16, top: 24, bottom: 12),
               child: Text(
-                '',
+                'Yangiliklar',
                 style: mTitleStyle,
               ),
             ),

@@ -46,7 +46,7 @@ class _BottomNavigationTravelkuyState extends State<BottomNavigationTravelkuy> {
                 ? new SvgPicture.asset('assets/icons/home_colored.svg')
                 : new SvgPicture.asset('assets/icons/home.svg'),
             title: Text(
-              'Home',
+              'Asosiy',
               style: bottomTextStyle,
             ),
           ),
@@ -56,7 +56,7 @@ class _BottomNavigationTravelkuyState extends State<BottomNavigationTravelkuy> {
                 ? new SvgPicture.asset('assets/icons/order_colored.svg')
                 : new SvgPicture.asset('assets/icons/order.svg'),
             title: Text(
-              'My Order',
+              'Tahlil natijalari',
               style: bottomTextStyle,
             ),
           ),
@@ -66,7 +66,7 @@ class _BottomNavigationTravelkuyState extends State<BottomNavigationTravelkuy> {
                 ? new SvgPicture.asset('assets/icons/watch_colored.svg')
                 : new SvgPicture.asset('assets/icons/watch.svg'),
             title: Text(
-              'Watch List',
+              'Tibbiy karta',
               style: bottomTextStyle,
             ),
           ),
@@ -76,7 +76,7 @@ class _BottomNavigationTravelkuyState extends State<BottomNavigationTravelkuy> {
                 ? new SvgPicture.asset('assets/icons/account_colored.svg')
                 : new SvgPicture.asset('assets/icons/account.svg'),
             title: Text(
-              'Account',
+              'Profil',
               style: bottomTextStyle,
             ),
           ),
