@@ -152,7 +152,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: Row(
                             children: <Widget>[
                               SvgPicture.asset(
-                                'assets/svg/service_flight_icon.svg',
+                                'assets/svg/1.svg',
                                 fit: BoxFit.fill,
                               ),
                               Padding(
@@ -189,7 +189,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: Row(
                             children: <Widget>[
                               SvgPicture.asset(
-                                'assets/svg/service_train_icon.svg',
+                                'assets/svg/2.svg',
                                 fit: BoxFit.contain,
                               ),
                               Padding(
@@ -233,7 +233,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: Row(
                             children: <Widget>[
                               SvgPicture.asset(
-                                'assets/svg/service_hotel_icon.svg',
+                                'assets/svg/3.svg',
                                 fit: BoxFit.contain,
                               ),
                               Padding(
