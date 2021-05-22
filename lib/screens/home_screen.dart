@@ -304,7 +304,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(
               padding: EdgeInsets.only(left: 16, top: 24, bottom: 12),
               child: Text(
-                'Mening ko\'rsatkichlarim',
+                'Foydali manbaalar',
                 style: mTitleStyle,
               ),
             ),
